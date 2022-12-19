@@ -1,0 +1,7 @@
+enable-migrations
+
+add-migration 
+
+Name : 1
+
+update-database
